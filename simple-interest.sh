@@ -4,7 +4,8 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <your Github username>
+# CatFish2069
+
 
 # Input:
 # p, principal amount
